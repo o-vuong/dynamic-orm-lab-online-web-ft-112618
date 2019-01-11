@@ -11,7 +11,7 @@ class InteractiveRecord
 
   def self.column_names
     array=["id", "name","grade"]
-    a
+    array
 
   end
 end

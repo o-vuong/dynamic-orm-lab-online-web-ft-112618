@@ -8,4 +8,10 @@ class InteractiveRecord
 
     "#{self.to_s.downcase}s"
   end
+
+  def self.column_name
+    array=["id", "name","grade"]
+    a
+
+  end
 end
